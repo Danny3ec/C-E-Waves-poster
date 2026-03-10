@@ -77,9 +77,7 @@ ADS_project/
 
 # 📷 Example Simulation Result
 
-![S11 Plot](images/Screenshot 2026-03-09-231755.png)
-
-Example result:
+<img src="images/s11_plot.png" width="500">
 
 ```
 Resonant frequency ≈ 2.501 GHz
