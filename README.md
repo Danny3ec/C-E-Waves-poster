@@ -77,7 +77,7 @@ ADS_project/
 
 # 📷 Example Simulation Result
 
-*(Add your S11 plot here)*
+![S11 Plot](images/Screenshot 2026-03-09-231755.png)
 
 Example result:
 
